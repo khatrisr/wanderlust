@@ -75,7 +75,9 @@ If you would like to contribute to the project, please follow our contribution g
         </tr>
         <tr>
             <td>
-                This project is part of GirlScript Summer of Code. We warmly welcome contributions from the community to help elevate Wanderlust.
+    This is practice            
+
+    This project is part of GirlScript Summer of Code. We warmly welcome contributions from the community to help elevate Wanderlust.
             </td>
         </tr>
     </table>
